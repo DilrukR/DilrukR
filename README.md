@@ -3,6 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilrukr" alt="dilrukr" /></a> </p>
 
+- 🌱 I’m currently learning **3D web animations and Android mobile applications**
+
+- 📫 How to reach me **Dilrukr7@gmail.com**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -10,6 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dilrukr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dilrukr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishan-dilruk-6019481a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishan-dilruk-6019481a4" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16282740" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16282740" height="30" width="40" /></a>
+<a href="https://fb.com/rishandilrukru730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishandilrukru730" height="30" width="40" /></a>
+<a href="https://dribbble.com/dilrukr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dilrukr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
